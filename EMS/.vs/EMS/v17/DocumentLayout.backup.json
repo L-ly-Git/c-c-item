@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c\u002B\u002B\\learn\\HeiMa\\EMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3704AA11-25FF-4B96-B866-3B5A8C3FD5FA}|EMS\\EMS.vcxproj|D:\\c\u002B\u002B\\learn\\HeiMa\\EMS\\EMS\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3704AA11-25FF-4B96-B866-3B5A8C3FD5FA}|EMS\\EMS.vcxproj|solutionrelative:EMS\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3704AA11-25FF-4B96-B866-3B5A8C3FD5FA}|EMS\\EMS.vcxproj|D:\\c\u002B\u002B\\learn\\HeiMa\\EMS\\EMS\\EMS.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3704AA11-25FF-4B96-B866-3B5A8C3FD5FA}|EMS\\EMS.vcxproj|solutionrelative:EMS\\EMS.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3704AA11-25FF-4B96-B866-3B5A8C3FD5FA}|EMS\\EMS.vcxproj|D:\\c\u002B\u002B\\learn\\HeiMa\\EMS\\EMS\\EMS.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3704AA11-25FF-4B96-B866-3B5A8C3FD5FA}|EMS\\EMS.vcxproj|solutionrelative:EMS\\EMS.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3704AA11-25FF-4B96-B866-3B5A8C3FD5FA}|EMS\\EMS.vcxproj|D:\\c\u002B\u002B\\learn\\HeiMa\\EMS\\EMS\\worker.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3704AA11-25FF-4B96-B866-3B5A8C3FD5FA}|EMS\\EMS.vcxproj|solutionrelative:EMS\\worker.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "worker.cpp",
+              "DocumentMoniker": "D:\\c\u002B\u002B\\learn\\HeiMa\\EMS\\EMS\\worker.cpp",
+              "RelativeDocumentMoniker": "EMS\\worker.cpp",
+              "ToolTip": "D:\\c\u002B\u002B\\learn\\HeiMa\\EMS\\EMS\\worker.cpp",
+              "RelativeToolTip": "EMS\\worker.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-16T14:23:26.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\c\u002B\u002B\\learn\\HeiMa\\EMS\\EMS\\main.cpp",
+              "RelativeDocumentMoniker": "EMS\\main.cpp",
+              "ToolTip": "D:\\c\u002B\u002B\\learn\\HeiMa\\EMS\\EMS\\main.cpp",
+              "RelativeToolTip": "EMS\\main.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-16T13:48:36.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EMS.cpp",
+              "DocumentMoniker": "D:\\c\u002B\u002B\\learn\\HeiMa\\EMS\\EMS\\EMS.cpp",
+              "RelativeDocumentMoniker": "EMS\\EMS.cpp",
+              "ToolTip": "D:\\c\u002B\u002B\\learn\\HeiMa\\EMS\\EMS\\EMS.cpp",
+              "RelativeToolTip": "EMS\\EMS.cpp",
+              "ViewState": "AgIAADwBAAAAAAAAAAAvwHEBAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-16T13:48:30.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EMS.h",
+              "DocumentMoniker": "D:\\c\u002B\u002B\\learn\\HeiMa\\EMS\\EMS\\EMS.h",
+              "RelativeDocumentMoniker": "EMS\\EMS.h",
+              "ToolTip": "D:\\c\u002B\u002B\\learn\\HeiMa\\EMS\\EMS\\EMS.h",
+              "RelativeToolTip": "EMS\\EMS.h",
+              "ViewState": "AgIAABsAAAAAAAAAAAAvwC4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-16T13:48:23.209Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
