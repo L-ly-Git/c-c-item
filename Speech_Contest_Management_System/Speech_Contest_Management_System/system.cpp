@@ -147,10 +147,9 @@ int System::get_LogNum() {
 	ifs.open(FILENAME, ios::in);
 
 
-	string id;
-	int point;
+	string data; //获取整行数据
 	int num = 0;
-	while (ifs >> id && ifs >> point) {
+	while (ifs >> data) {
 		num++;
 	}
 
@@ -186,16 +185,17 @@ void System::out_csv() {
 	cout << "往届记录如下:" << endl;
 	//开始读取数据
 
-	string id;
-	int point;
-
+	string data;
 	for (int i = 0; i < num; i++) {
 		cout << "=================================================" << endl;
 		cout << "第" << i+1 << "届" << endl;
 		for (int j = 0; j < 3; j++) {
-			ifs >> id;
-			ifs >> point;
-			cout << "第" << j + 1 << "名:" << "编号:" << id << " 得分" << point << endl;
+			ifs >> data;
+			//用','分割数据输出编号
+			int pos = data.find(',', 0);// 找到','的下标
+			string id = data.substr(0, pos); //获得编号
+			string point = data.substr(pos+1, data.size()); //获得分数
+			cout << "第" << j + 1 << "名  " << "编号：" << id << " 得分:" << point << endl;
 		}
 	}
 
@@ -208,11 +208,11 @@ void System::save() {
 	//创建流对象
 	ofstream ofs;
 	//打开文件
-	ofs.open(FILENAME, ios::app);
+	ofs.open(FILENAME, ios::app | ios::out);
 
 	//写入数据
 	for (int i = 0; i < 3; i++) {
-		ofs << this->pars[i].m_Id << " "
+		ofs << this->pars[i].m_Id << ","
 			<< this->pars[i].m_point << endl;
 	}
 

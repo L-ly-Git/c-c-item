@@ -11,6 +11,14 @@
       "RelativeMoniker": "D:0:0:{CC48C7FA-F976-40A3-AEE1-A0DE22D08AEA}|Speech_Contest_Management_System\\Speech_Contest_Management_System.vcxproj|solutionrelative:Speech_Contest_Management_System\\system.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{CC48C7FA-F976-40A3-AEE1-A0DE22D08AEA}|Speech_Contest_Management_System\\Speech_Contest_Management_System.vcxproj|D:\\c#\\item\\Speech_Contest_Management_System\\Speech_Contest_Management_System\\participant.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CC48C7FA-F976-40A3-AEE1-A0DE22D08AEA}|Speech_Contest_Management_System\\Speech_Contest_Management_System.vcxproj|solutionrelative:Speech_Contest_Management_System\\participant.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC48C7FA-F976-40A3-AEE1-A0DE22D08AEA}|Speech_Contest_Management_System\\Speech_Contest_Management_System.vcxproj|D:\\c#\\item\\Speech_Contest_Management_System\\Speech_Contest_Management_System\\participant.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CC48C7FA-F976-40A3-AEE1-A0DE22D08AEA}|Speech_Contest_Management_System\\Speech_Contest_Management_System.vcxproj|solutionrelative:Speech_Contest_Management_System\\participant.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CC48C7FA-F976-40A3-AEE1-A0DE22D08AEA}|Speech_Contest_Management_System\\Speech_Contest_Management_System.vcxproj|D:\\c#\\item\\Speech_Contest_Management_System\\Speech_Contest_Management_System\\System.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{CC48C7FA-F976-40A3-AEE1-A0DE22D08AEA}|Speech_Contest_Management_System\\Speech_Contest_Management_System.vcxproj|solutionrelative:Speech_Contest_Management_System\\System.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -19,19 +27,11 @@
       "RelativeMoniker": "D:0:0:{CC48C7FA-F976-40A3-AEE1-A0DE22D08AEA}|Speech_Contest_Management_System\\Speech_Contest_Management_System.vcxproj|solutionrelative:Speech_Contest_Management_System\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC48C7FA-F976-40A3-AEE1-A0DE22D08AEA}|Speech_Contest_Management_System\\Speech_Contest_Management_System.vcxproj|D:\\c#\\item\\Speech_Contest_Management_System\\Speech_Contest_Management_System\\participant.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{CC48C7FA-F976-40A3-AEE1-A0DE22D08AEA}|Speech_Contest_Management_System\\Speech_Contest_Management_System.vcxproj|solutionrelative:Speech_Contest_Management_System\\participant.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CC48C7FA-F976-40A3-AEE1-A0DE22D08AEA}|Speech_Contest_Management_System\\Speech_Contest_Management_System.vcxproj|D:\\c#\\item\\Speech_Contest_Management_System\\Speech_Contest_Management_System\\head.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{CC48C7FA-F976-40A3-AEE1-A0DE22D08AEA}|Speech_Contest_Management_System\\Speech_Contest_Management_System.vcxproj|solutionrelative:Speech_Contest_Management_System\\head.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC48C7FA-F976-40A3-AEE1-A0DE22D08AEA}|Speech_Contest_Management_System\\Speech_Contest_Management_System.vcxproj|D:\\c#\\item\\Speech_Contest_Management_System\\Speech_Contest_Management_System\\participant.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{CC48C7FA-F976-40A3-AEE1-A0DE22D08AEA}|Speech_Contest_Management_System\\Speech_Contest_Management_System.vcxproj|solutionrelative:Speech_Contest_Management_System\\participant.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC48C7FA-F976-40A3-AEE1-A0DE22D08AEA}|Speech_Contest_Management_System\\Speech_Contest_Management_System.vcxproj|C:\\PROGRAM FILES\\MICROSOFT VISUAL STUDIO\\2022\\COMMUNITY\\VC\\TOOLS\\MSVC\\14.42.34433\\INCLUDE\\ALGORITHM||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\algorithm||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -55,7 +55,7 @@
               "RelativeDocumentMoniker": "Speech_Contest_Management_System\\log.csv",
               "ToolTip": "D:\\c#\\item\\Speech_Contest_Management_System\\Speech_Contest_Management_System\\log.csv",
               "RelativeToolTip": "Speech_Contest_Management_System\\log.csv",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
               "WhenOpened": "2026-03-26T13:31:46.603Z",
               "EditorCaption": ""
@@ -68,8 +68,7 @@
               "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\algorithm",
               "ViewState": "AgIAAJ0BAAAAAAAAAAAlwLQBAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-03-26T13:07:09.72Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-26T13:07:09.72Z"
             },
             {
               "$type": "Document",
@@ -79,14 +78,14 @@
               "RelativeDocumentMoniker": "Speech_Contest_Management_System\\system.cpp",
               "ToolTip": "D:\\c#\\item\\Speech_Contest_Management_System\\Speech_Contest_Management_System\\system.cpp",
               "RelativeToolTip": "Speech_Contest_Management_System\\system.cpp",
-              "ViewState": "AgIAAIoAAAAAAAAAAAAEwIMAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAALAAAAAAAAAAAAAEwMEAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-03-26T12:29:26.147Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "head.h",
               "DocumentMoniker": "D:\\c#\\item\\Speech_Contest_Management_System\\Speech_Contest_Management_System\\head.h",
               "RelativeDocumentMoniker": "Speech_Contest_Management_System\\head.h",
@@ -94,12 +93,11 @@
               "RelativeToolTip": "Speech_Contest_Management_System\\head.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-03-26T12:07:34.253Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-26T12:07:34.253Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "participant.cpp",
               "DocumentMoniker": "D:\\c#\\item\\Speech_Contest_Management_System\\Speech_Contest_Management_System\\participant.cpp",
               "RelativeDocumentMoniker": "Speech_Contest_Management_System\\participant.cpp",
@@ -112,33 +110,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "participant.h",
               "DocumentMoniker": "D:\\c#\\item\\Speech_Contest_Management_System\\Speech_Contest_Management_System\\participant.h",
               "RelativeDocumentMoniker": "Speech_Contest_Management_System\\participant.h",
               "ToolTip": "D:\\c#\\item\\Speech_Contest_Management_System\\Speech_Contest_Management_System\\participant.h",
               "RelativeToolTip": "Speech_Contest_Management_System\\participant.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2026-03-26T11:58:36.462Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "System.h",
               "DocumentMoniker": "D:\\c#\\item\\Speech_Contest_Management_System\\Speech_Contest_Management_System\\System.h",
               "RelativeDocumentMoniker": "Speech_Contest_Management_System\\System.h",
               "ToolTip": "D:\\c#\\item\\Speech_Contest_Management_System\\Speech_Contest_Management_System\\System.h",
               "RelativeToolTip": "Speech_Contest_Management_System\\System.h",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2026-03-26T11:47:45.565Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "main.cpp",
               "DocumentMoniker": "D:\\c#\\item\\Speech_Contest_Management_System\\Speech_Contest_Management_System\\main.cpp",
               "RelativeDocumentMoniker": "Speech_Contest_Management_System\\main.cpp",
@@ -146,8 +144,7 @@
               "RelativeToolTip": "Speech_Contest_Management_System\\main.cpp",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-03-26T11:47:12.278Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-26T11:47:12.278Z"
             }
           ]
         }

@@ -3,7 +3,7 @@
 class Participant {
 public:
 	string m_Id; //编号
-	int m_point; //平均分
+	double m_point; //平均分
 
 public:
 
