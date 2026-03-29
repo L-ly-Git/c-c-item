@@ -1,0 +1,9 @@
+﻿  Admin.cpp
+D:\c#\item\Computer Room Reservation System\Computer Room Reservation System\Admin.cpp(209,37): warning C4267: “+=”: 从“size_t”转换到“int”，可能丢失数据
+  Student.cpp
+  Teacher.cpp
+  main.cpp
+  system.cpp
+D:\c#\item\Computer Room Reservation System\Computer Room Reservation System\system.cpp(125,37): warning C4267: “+=”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码...
+  Computer Room Reservation System.vcxproj -> D:\c#\item\Computer Room Reservation System\x64\Debug\Computer Room Reservation System.exe
