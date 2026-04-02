@@ -108,7 +108,7 @@ vector<string> System::info_from_file(string filename) {
 	//判断是否成功
 	if (!ifs.is_open()) {
 		cout <<filename <<"文件打开失败" << endl;
-		return datas;
+		exit(1);
 	}
 	while (ifs >> data) {
 		datas.push_back(data);

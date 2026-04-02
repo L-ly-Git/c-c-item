@@ -72,19 +72,40 @@ void Admin_System::Add_Person() {
 		cin >> id;
 		cout << "输入名字:";
 		cin >> name;
+		int flag = 0; //判断输入的id是否已经存在,用于去重
 		switch (choice) {
 		case 1:
-		{
-			Teacher t(id, name, password);
-			this->m_Teachers.push_back(t);
-			num--;
+		{	
+			for (vector<Teacher>::iterator it = this->m_Teachers.begin(); it != this->m_Teachers.end(); it++) {
+				if (id == it->m_Id) {
+					cout << "输入的教师id已经存在，请重新输入" << endl;
+					flag = 1;
+					break;
+				}
+			}
+			if (flag == 0) {
+				Teacher t(id, name, password);
+				this->m_Teachers.push_back(t);
+				num--;
+			}
+
 			break;
 		}
 		case 2:
 		{
-			Student stu(id, name, password);
-			this->m_Stus.push_back(stu);
-			num--;
+			for (vector<Student>::iterator it = this->m_Stus.begin(); it != this->m_Stus.end(); it++) {
+				if (id == it->m_Id) {
+					cout << "输入的学生id已经存在，请重新输入" << endl;
+					flag = 1;
+					break;
+				}
+			}
+			if (flag == 0) {
+				Student stu(id, name, password);
+				this->m_Stus.push_back(stu);
+				num--;
+			}
+
 			break;
 		}
 		case 0:
